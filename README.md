@@ -57,7 +57,7 @@ _pnpm install_
 
 Run the following command in order to start the application in a development environment:
 
-_nextjs develop_
+_npm run dev_
 
 **NextJS: open the source code and start editing!**
 
